@@ -4,9 +4,9 @@ import MenuBar from './components/MenuBar.vue'
 </script>
 
 <template>
-  <div class="flex flex-col min-h-screen">
+  <div class="flex flex-col h-full items-center justify-center text-center">
     <MenuBar />
-    <main class="flex-1">
+    <main class="flex-1 container mx-auto px-4">
       <RouterView />
     </main>
   </div>
