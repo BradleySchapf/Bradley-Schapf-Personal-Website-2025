@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main>
+  <div>
     <p>Blog</p>
-  </main>
+  </div>
 </template>

@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main>
+  <div class="flex flex-col items-center justify-center h-full">
     <p>Home</p>
-  </main>
+  </div>
 </template>
