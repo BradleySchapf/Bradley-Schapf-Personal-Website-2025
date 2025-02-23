@@ -9,3 +9,7 @@
   margin: 0 auto;
   font-weight: normal;
 }
+
+.nav-link {
+  @apply hover:bg-gray-200 py-4 px-12 transition-colors;
+}
