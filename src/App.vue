@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
-import MenuBar from './components/MenuBar.vue'
+import MenuBar from './components/SiteHeader.vue'
 </script>
 
 <template>
