@@ -8,5 +8,9 @@ A simple personal blog built with Vue 3 and Tailwind CSS.
 - [ ] Blog page
     - [ ] Connection to Directus API
 - [ ] Portfolio page
-- [ ] Navigation bar
+- [x] Header
+- [x] Footer
+
+- [ ] Cloud Hosting
+
 
